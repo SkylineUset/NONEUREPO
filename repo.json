@@ -1,0 +1,51 @@
+{
+  "name": "FN_NON_EU",
+  "subtitle": "Non European",
+  "description": "This is Epic Games Repo but without living in the European Union",
+  "iconURL": "https://example.com/source_icon.png",
+  "headerURL": "https://example.com/source_header.png",
+  "website": "https://NONEUREPO.github.io",
+  "patreonURL": "https://patreon.com/mycampaign"
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.noneu.test",
+    "com.noneu.anotherapp"
+  ],
+  "apps": [Fortnte, Fall Gys],
+  "news": [Non Eu is releaed!],
+}
+
+"apps": [
+    {
+        "name": "NON EU FN",
+        "bundleIdentifier": "com.noneu.test",
+        "marketplaceID": "12345678",
+        "developerName": "ANonMus",
+        "subtitle": "An awesome app.",
+        "localizedDescription": "This is an awesome app only available on AltStore.",
+        "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbetaprofiles.dev%2Finstall%2Ffortnite%2F&psig=AOvVaw2VDuSDEYk2Sp8WLjghDQfu&ust=1745878924309000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiw1oOg-YwDFQAAAAAdAAAAABAE",
+        "tintColor": "#F54F32",
+        "category": "utilities",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": [1.0],
+        "appPermissions": {},
+        "patreon": {},
+    },
+]
+
+"versions": [
+  {
+    "version": "1.0",
+    "buildVersion": "60",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://www.dropbox.com/scl/fi/6g2uncz7ow8d7tfrfedsp/Fortnite-34.40_patched.ipa?rlkey=maloxs3aqybtfuh0big0he1v6&st=a64oumlm&dl=0",
+    "size": 79821,
+    "minOSVersion": "16.3",
+    "maxOSVersion": "18.1"
+  },
+]
